@@ -1,6 +1,6 @@
 ### Hello I´m Diogo Sá
 
-- 🔭 I’m currently working on Asp.Net Core
+- 🔭 I’m currently working on Asp.Net Framework
 - 🌱 I’m currently learning Android
 - 📫 How to reach me: sadiogoestoril@gmail.com
 

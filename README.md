@@ -1,6 +1,6 @@
 ### Hello I´m Diogo Sá
 
-- 🔭 I’m currently working on Asp.Net Framework
+- 🔭 I’m currently working on Asp.Net Core
 - 📫 How to reach me: sadiogoestoril@gmail.com
 
   <link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
